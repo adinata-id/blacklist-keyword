@@ -1,0 +1,6 @@
+Pengeroyokan,
+Pembunuhan,
+Perampokan,
+Terorisme,
+Penyiksaan,
+Pemerkosaan,
