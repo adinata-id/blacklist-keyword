@@ -7,6 +7,11 @@ berikut ini adalah daftar keyword yang di blacklist:
 - [Konten Kekerasan](https://github.com/adinata-id/blacklist-keyword/blob/main/Kekerasan%20dan%20Konten%20Mengganggu:.md)
 
 
+## Contoh Implementasi
+
+Anda dapat menggunakan kata kunci yang di blacklist ini di tools/aplikasi yang anda develop sehingga website-website yang mengandung kata kunci yang di blacklist tidak bisa di daftarkan di tools/aplikasi yang anda kembangkan.
+
+
 ## Authors
 
 - [@_4dinata](https://twitter.com/_4dinata)
